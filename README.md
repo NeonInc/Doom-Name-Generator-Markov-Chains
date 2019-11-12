@@ -20,7 +20,7 @@ The Main Menu allows the user to select the theme of the generated level names. 
 - Sci-Fi Theme
 - Hellish Theme
 
-The corpus files for each of the themes are Level_Names-SciFi_Theme.txt and Level_Names-Hellish_Theme.txt. 
+The corpus files for each of the themes are **Level_Names-SciFi_Theme.txt** and **Level_Names-Hellish_Theme.txt**. 
 
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Main_Menu.png">

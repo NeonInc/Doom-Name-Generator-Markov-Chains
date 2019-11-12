@@ -24,6 +24,8 @@ The Main Menu allows the user to select the theme of the generated level names. 
   <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Main_Menu.png">
 </p>
 
+Once the theme is selected, click the Generate button to generate 10 unique level names, in the respective theme.
+
 <p align="center">
-  <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Main_Menu.png">
+  <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Generated_Names.png">
 </p>

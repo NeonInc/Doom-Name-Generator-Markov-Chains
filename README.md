@@ -15,7 +15,14 @@ python3 Doom_Level_Name_Generator.py
 ```
 #### Main Menu
 
-The Main Menu allows the user to select the theme of the generated level names. 
+The Main Menu allows the user to select the theme of the generated level names. There are two themes to choose from,
+
+- Sci-Fi Theme
+- Hellish Theme
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Main_Menu.png">
+</p>
 
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Doom-Name-Generator-Markov-Chains/blob/master/Images/Main_Menu.png">
